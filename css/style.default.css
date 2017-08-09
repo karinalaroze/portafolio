@@ -29,11 +29,15 @@ section {
   overflow: hidden;
 }
 .section-gray {
-  background: #eeeeee;
+  background: white;
 }
+#page2{
+  background-color: whitesmoke;
+}
+
 @media (max-width: 991px) {
   .section-gray {
-    background: #eeeeee;
+    background: white;
   }
 }
 .overlay {
@@ -68,6 +72,7 @@ h4.heading:after {
 }
 .img-responsive {
   margin: 0 auto;
+  border: 5px solid black;
 }
 .box {
   margin-bottom: 30px;
@@ -855,6 +860,8 @@ h3,
 }
 p {
   margin: 0 0 22px;
+  text-align: center;
+  font-size: 20px;
 }
 .lead {
   margin-bottom: 22px;
@@ -862,7 +869,8 @@ p {
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 24px;
+    font-size: 27px;
+    text-align: center;
   }
 }
 .text-small {
