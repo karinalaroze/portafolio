@@ -30,8 +30,26 @@ section {
 }
 .section-gray {
   background: white;
+  background-image: url(../img/pexels-photo-433604.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 #page2{
+  background-color: whitesmoke;
+}
+
+.heading{
+  color: black;
+}
+
+.title{
+  color: white;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#page6{
   background-color: whitesmoke;
 }
 
