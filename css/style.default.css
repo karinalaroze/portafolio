@@ -30,7 +30,7 @@ section {
 }
 .section-gray {
   background: white;
-  background-image: url(../img/pexels-photo-433604.jpeg);
+  background-image: url(../img/fondo-gris.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -44,7 +44,7 @@ section {
 }
 
 .title{
-  color: white;
+  color: black;
   text-align: center;
   margin-bottom: 40px;
 }
@@ -89,8 +89,8 @@ h4.heading:after {
   background: #4fbfa8;
 }
 .img-responsive {
-  margin: 0 auto;
-  border: 5px solid black;
+  margin: 129px auto;
+  border-radius: 54px;
 }
 .box {
   margin-bottom: 30px;
