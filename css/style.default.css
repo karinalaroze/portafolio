@@ -28,12 +28,17 @@ section {
   height: 100%;
   overflow: hidden;
 }
-.section-gray {
-  background: white;
-  background-image: url(../img/fondo-gris.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-
+#page3 .box i { 
+  font-size: 60px;
+}
+#page3 .box{
+  padding:30px;
+}
+#page4{
+  background-color: whitesmoke;
+}
+.title_portfolio{
+  margin-top:150px;
 }
 #page2{
   background-color: whitesmoke;
@@ -49,9 +54,9 @@ section {
   margin-bottom: 40px;
 }
 
-#page6{
+/*#page6{
   background-color: whitesmoke;
-}
+}*/
 
 @media (max-width: 991px) {
   .section-gray {
